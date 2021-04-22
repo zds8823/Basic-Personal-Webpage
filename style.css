@@ -1,0 +1,63 @@
+body {
+	background-color: #A4D740;
+	font-family: helvetica, Arial, sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: orange;
+
+}
+
+h1 {
+	margin: 0;
+	text-align: center;
+}
+
+
+h2, h3 {
+	margin: 10;
+	text-align: Left;
+	padding: 5px;
+}
+
+
+#container {
+	background-color: white;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+
+#header {
+	background-color: #EEEEEEE;
+	color:white;
+	text-align: Center;
+	padding: 15px;
+}
+
+#content {
+	padding: 10px;
+}
+
+#nav { 
+	float: center;
+	padding: 10px;
+}
+
+#nav ul {
+	padding: 20px;
+	list-style-type:none;
+
+}
+
+#main {
+	width: 600px;
+	float: center;
+}
+
+#footer {
+	clear: both;
+	padding: 50px;
+	text-align: right;
+}
