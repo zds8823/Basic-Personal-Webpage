@@ -8,7 +8,9 @@ You can visit the webpage at the links below.
  
  http://falcon.acadiau.ca/~122593l/Assignment%201/index.html   
  
- -About Me page  http://falcon.acadiau.ca/~122593l/Assignment%201/about.html    
+ -About Me page  
+ 
+ http://falcon.acadiau.ca/~122593l/Assignment%201/about.html    
  
  -Resume page 
  
